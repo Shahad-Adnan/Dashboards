@@ -5,6 +5,8 @@ This project explores medal distribution, athlete performance, and historical tr
 📊 Overview
 The dashboard consists of **four pages**, each offering unique insights:
 
+Dataset used: https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/data
+
 1. Overview Page – Displays total medals, country-wise breakdowns, gender distributions, and key event summaries.  
 2. Country Page – Enables in-depth exploration of each nation’s performance, including medal types and rankings.  
 3. Athletes Page – Highlights top-performing athletes with interactive filters for events, gender, and country.  
@@ -22,11 +24,11 @@ The dashboard consists of **four pages**, each offering unique insights:
 ## 🖼️ Preview
 ![Dashboard Preview](https://github.com/Shahad-Adnan/Dashboards/blob/main/Olympic_Dashboard/oly1.png)
 ![Dashboard Preview](https://github.com/Shahad-Adnan/Dashboards/blob/main/Olympic_Dashboard/Screenshot%202025-10-14%20010119.png)
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Shahad-Adnan/Dashboards/blob/main/Olympic_Dashboard/Screenshot%202025-10-14%20010101.png)
 
 
 ---
 
 ## 💬 About
-This dashboard was created as part of my Power BI learning and portfolio project to demonstrate storytelling through data visualization.
+**This dashboard was developed as part of my Power BI learning journey, inspired by publicly available datasets and tutorials. It demonstrates my ability to recreate, enhance, and interpret analytical dashboards using modern visualization practices.**
 
