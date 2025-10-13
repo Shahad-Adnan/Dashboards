@@ -20,8 +20,10 @@ The dashboard consists of **four pages**, each offering unique insights:
 - Visualizes Olympic progress across decades.
 
 ## 🖼️ Preview
-*(Add screenshots here later for better visualization)*  
-![Dashboard Preview](./Screenshots/Paris2024_Overview.png)
+![Dashboard Preview](https://github.com/Shahad-Adnan/Dashboards/blob/main/Olympic_Dashboard/oly1.png)
+![Dashboard Preview](https://github.com/Shahad-Adnan/Dashboards/blob/main/Olympic_Dashboard/Screenshot%202025-10-14%20010119.png)
+![Dashboard Preview]()
+
 
 ---
 
