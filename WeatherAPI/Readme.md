@@ -12,4 +12,4 @@ Data Source: https://www.weatherapi.com/
 
 ![Dashboard Preview](https://github.com/Shahad-Adnan/Dashboards/blob/main/WeatherAPI/Snapshot.png)
 
-** The dashboard structure and concept were influenced by educational resources, with my own refinements and interpretations added. **
+**The dashboard structure and concept were influenced by educational resources, with my own refinements and interpretations added.**
