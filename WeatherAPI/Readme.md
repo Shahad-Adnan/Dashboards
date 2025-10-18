@@ -10,6 +10,6 @@ A modern and interactive Weather Dashboard that provides real-time and 7-day for
 
 Data Source: https://www.weatherapi.com/
 
-![Dashboard Preview](link-to-your-screenshot)
+![Dashboard Preview](https://github.com/Shahad-Adnan/Dashboards/blob/main/WeatherAPI/Snapshot.png)
 
 ** The dashboard structure and concept were influenced by educational resources, with my own refinements and interpretations added. **
